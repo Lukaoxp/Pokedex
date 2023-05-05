@@ -1,1 +1,8 @@
-# First time using the Poke API by creating a pokedex application
+# Trilha JS Developer - Pokedex
+
+Projeto de pokedex utilizando a PokeAPI.
+
+Feito com
+- HTML
+- JavaScript Vanilla
+- CSS
