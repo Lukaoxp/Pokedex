@@ -203,6 +203,9 @@
 .normaldragon{
     background: linear-gradient(130deg, var(--normal) 20%, var(--dragon) 80%);
 }
+.normalghost{
+    background: linear-gradient(130deg, var(--normal) 20%, var(--ghost) 80%);
+}
 
 
 /* POISON */
@@ -232,6 +235,12 @@
 }
 .poisonnormal{
     background: linear-gradient(130deg, var(--poison) 20%, var(--normal) 80%);
+}
+.poisonpsychic{
+    background: linear-gradient(130deg, var(--poison) 20%, var(--psychic) 80%);
+}
+.poisonfairy{
+    background: linear-gradient(130deg, var(--poison) 20%, var(--fairy) 80%);
 }
 
 
@@ -350,6 +359,12 @@
 .fightingdragon{
     background: linear-gradient(130deg, var(--fighting) 20%, var(--dragon) 80%);
 }
+.fightingwater{
+    background: linear-gradient(130deg, var(--fighting) 20%, var(--water) 80%);
+}
+.fightingfire{
+    background: linear-gradient(130deg, var(--fighting) 20%, var(--fire) 80%);
+}
 
 
 /* ROCK */
@@ -456,6 +471,12 @@
 .psychicdark{
     background: linear-gradient(130deg, var(--psychic) 20%, var(--dark) 80%);
 }
+.psychicdragon{
+    background: linear-gradient(130deg, var(--psychic) 20%, var(--dragon) 80%);
+}
+.psychicice{
+    background: linear-gradient(130deg, var(--psychic) 20%, var(--ice) 80%);
+}
 
 
 /* ICE */
@@ -476,6 +497,18 @@
 }
 .icebug{
     background: linear-gradient(130deg, var(--ice) 20%, var(--bug) 80%);
+}
+.icesteel{
+    background: linear-gradient(130deg, var(--ice) 20%, var(--steel) 80%);
+}
+.icefairy{
+    background: linear-gradient(130deg, var(--ice) 20%, var(--fairy) 80%);
+}
+.icefire{
+    background: linear-gradient(130deg, var(--ice) 20%, var(--fire) 80%);
+}
+.icerock{
+    background: linear-gradient(130deg, var(--ice) 20%, var(--rock) 80%);
 }
 
 
