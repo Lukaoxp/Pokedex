@@ -1,0 +1,455 @@
+
+/* GRASS */
+/* .grasspoison{
+    background: linear-gradient(130deg, var(--grass) 20%, var(--poison) 80%);
+} */
+.grasspsychic{
+    background: linear-gradient(130deg, var(--grass) 20%, var(--psychic) 80%);
+}
+.grassflying{
+    background: linear-gradient(130deg, var(--grass) 20%, var(--flying) 80%);
+}
+.grassdark{
+    background: linear-gradient(130deg, var(--grass) 20%, var(--dark) 80%);
+}
+.grassfighting{
+    background: linear-gradient(130deg, var(--grass) 20%, var(--fighting) 80%);
+}
+.grassground{
+    background: linear-gradient(130deg, var(--grass) 20%, var(--ground) 80%);
+}
+.grassice{
+    background: linear-gradient(130deg, var(--grass) 20%, var(--ice) 80%);
+}
+.grassfairy{
+    background: linear-gradient(130deg, var(--grass) 20%, var(--fairy) 80%);
+}
+.grasssteel{
+    background: linear-gradient(130deg, var(--grass) 20%, var(--steel) 80%);
+}
+.grassghost{
+    background: linear-gradient(130deg, var(--grass) 20%, var(--ghost) 80%);
+}
+
+
+/* FIRE */
+.fireflying{
+    background: linear-gradient(130deg, var(--fire) 20%, var(--flying) 80%);
+}
+.firerock{
+    background: linear-gradient(130deg, var(--fire) 20%, var(--rock) 80%);
+}
+.firefighting{
+    background: linear-gradient(130deg, var(--fire) 20%, var(--fighting) 80%);
+}
+.fireground{
+    background: linear-gradient(130deg, var(--fire) 20%, var(--ground) 80%);
+}
+.firesteel{
+    background: linear-gradient(130deg, var(--fire) 20%, var(--steel) 80%);
+}
+.firepsychic{
+    background: linear-gradient(130deg, var(--fire) 20%, var(--psychic) 80%);
+}
+.firenormal{
+    background: linear-gradient(130deg, var(--fire) 20%, var(--normal) 80%);
+}
+.firewater{
+    background: linear-gradient(130deg, var(--fire) 20%, var(--water) 80%);
+}
+.firedark{
+    background: linear-gradient(130deg, var(--fire) 20%, var(--dark) 80%);
+}
+.firedragon{
+    background: linear-gradient(130deg, var(--fire) 20%, var(--dragon) 80%);
+}
+
+
+/* WATER */
+.waterfighting{
+    background: linear-gradient(130deg, var(--water) 20%, var(--fighting) 80%);
+}
+.waterpoison{
+    background: linear-gradient(130deg, var(--water) 20%, var(--poison) 80%);
+}
+.waterpsychic{
+    background: linear-gradient(130deg, var(--water) 20%, var(--psychic) 80%);
+}
+.waterice{
+    background: linear-gradient(130deg, var(--water) 20%, var(--ice) 80%);
+}
+.waterflying{
+    background: linear-gradient(130deg, var(--water) 20%, var(--flying) 80%);
+}
+.waterelectric{
+    background: linear-gradient(130deg, var(--water) 20%, var(--electric) 80%);
+}
+.waterfairy{
+    background: linear-gradient(130deg, var(--water) 20%, var(--fairy) 80%);
+}
+.waterground{
+    background: linear-gradient(130deg, var(--water) 20%, var(--ground) 80%);
+}
+.waterrock{
+    background: linear-gradient(130deg, var(--water) 20%, var(--rock) 80%);
+}
+.waterdragon{
+    background: linear-gradient(130deg, var(--water) 20%, var(--dragon) 80%);
+}
+.watergrass{
+    background: linear-gradient(130deg, var(--water) 20%, var(--grass) 80%);
+}
+.waterdark{
+    background: linear-gradient(130deg, var(--water) 20%, var(--dark) 80%);
+}
+.watersteel{
+    background: linear-gradient(130deg, var(--water) 20%, var(--steel) 80%);
+}
+.waterghost{
+    background: linear-gradient(130deg, var(--water) 20%, var(--ghost) 80%);
+}
+.waterbug{
+    background: linear-gradient(130deg, var(--water) 20%, var(--bug) 80%);
+}
+
+
+/* BUG */
+.bugflying{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--flying) 80%);
+}
+.buggrass{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--grass) 80%);
+}
+.bugpoison{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--poison) 80%);
+}
+.bugsteel{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--steel) 80%);
+}
+.bugrock{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--rock) 80%);
+}
+.bugfighting{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--fighting) 80%);
+}
+.bugwater{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--water) 80%);
+}
+.bugground{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--ground) 80%);
+}
+.bugghost{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--ghost) 80%);
+}
+.bugelectric{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--electric) 80%);
+}
+.bugfire{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--fire) 80%);
+}
+.bugfairy{
+    background: linear-gradient(130deg, var(--bug) 20%, var(--fairy) 80%);
+}
+
+
+/* NORMAL */
+.normalflying{
+    background: linear-gradient(130deg, var(--normal) 20%, var(--flying) 80%);
+}
+.normalfairy{
+    background: linear-gradient(130deg, var(--normal) 20%, var(--fairy) 80%);
+}
+.normalpsychic{
+    background: linear-gradient(130deg, var(--normal) 20%, var(--psychic) 80%);
+}
+.normalwater{
+    background: linear-gradient(130deg, var(--normal) 20%, var(--water) 80%);
+}
+.normalgrass{
+    background: linear-gradient(130deg, var(--normal) 20%, var(--grass) 80%);
+}
+.normalground{
+    background: linear-gradient(130deg, var(--normal) 20%, var(--ground) 80%);
+}
+.normalfighting{
+    background: linear-gradient(130deg, var(--normal) 20%, var(--fighting) 80%);
+}
+
+
+/* POISON */
+.poisonground{
+    background: linear-gradient(130deg, var(--poison) 20%, var(--ground) 80%);
+}
+.poisonflying{
+    background: linear-gradient(130deg, var(--poison) 20%, var(--flying) 80%);
+}
+.poisondark{
+    background: linear-gradient(130deg, var(--poison) 20%, var(--dark) 80%);
+}
+.poisonbug{
+    background: linear-gradient(130deg, var(--poison) 20%, var(--bug) 80%);
+}
+.poisonfighting{
+    background: linear-gradient(130deg, var(--poison) 20%, var(--fighting) 80%);
+}
+.poisonwater{
+    background: linear-gradient(130deg, var(--poison) 20%, var(--water) 80%);
+}
+.poisondragon{
+    background: linear-gradient(130deg, var(--poison) 20%, var(--dragon) 80%);
+}
+.poisonfire{
+    background: linear-gradient(130deg, var(--poison) 20%, var(--fire) 80%);
+}
+
+
+/* ELECTRIC */
+.electricsteel{
+    background: linear-gradient(130deg, var(--electric) 20%, var(--steel) 80%);
+}
+.electricflying{
+    background: linear-gradient(130deg, var(--electric) 20%, var(--flying) 80%);
+}
+.electricghost{
+    background: linear-gradient(130deg, var(--electric) 20%, var(--ghost) 80%);
+}
+.electricnormal{
+    background: linear-gradient(130deg, var(--electric) 20%, var(--normal) 80%);
+}
+.electricfairy{
+    background: linear-gradient(130deg, var(--electric) 20%, var(--fairy) 80%);
+}
+
+
+/* GROUND */
+.groundrock{
+    background: linear-gradient(130deg, var(--ground) 20%, var(--rock) 80%);
+}
+.groundflying{
+    background: linear-gradient(130deg, var(--ground) 20%, var(--flying) 80%);
+}
+.grounddragon{
+    background: linear-gradient(130deg, var(--ground) 20%, var(--dragon) 80%);
+}
+.groundpsychic{
+    background: linear-gradient(130deg, var(--ground) 20%, var(--psychic) 80%);
+}
+.groundsteel{
+    background: linear-gradient(130deg, var(--ground) 20%, var(--steel) 80%);
+}
+.grounddark{
+    background: linear-gradient(130deg, var(--ground) 20%, var(--dark) 80%);
+}
+.groundelectric{
+    background: linear-gradient(130deg, var(--ground) 20%, var(--electric) 80%);
+}
+.groundghost{
+    background: linear-gradient(130deg, var(--ground) 20%, var(--ghost) 80%);
+}
+
+
+/* FIGHTING */
+.fightingpsychic{
+    background: linear-gradient(130deg, var(--fighting) 20%, var(--psychic) 80%);
+}
+.fightingsteel{
+    background: linear-gradient(130deg, var(--fighting) 20%, var(--steel) 80%);
+}
+.fightingdark{
+    background: linear-gradient(130deg, var(--fighting) 20%, var(--dark) 80%);
+}
+.fightingflying{
+    background: linear-gradient(130deg, var(--fighting) 20%, var(--flying) 80%);
+}
+.fightingice{
+    background: linear-gradient(130deg, var(--fighting) 20%, var(--ice) 80%);
+}
+
+
+/* ROCK */
+.rockground{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--ground) 80%);
+}
+.rockwater{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--water) 80%);
+}
+.rockflying{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--flying) 80%);
+}
+.rockdark{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--dark) 80%);
+}
+.rockpsychic{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--psychic) 80%);
+}
+.rockgrass{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--grass) 80%);
+}
+.rockbug{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--bug) 80%);
+}
+.rocksteel{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--steel) 80%);
+}
+.rockfighting{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--fighting) 80%);
+}
+.rockdragon{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--dragon) 80%);
+}
+.rockice{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--ice) 80%);
+}
+.rockfairy{
+    background: linear-gradient(130deg, var(--rock) 20%, var(--fairy) 80%);
+}
+
+
+/* GHOST */
+.ghostpoison{
+    background: linear-gradient(130deg, var(--ghost) 20%, var(--poison) 80%);
+}
+.ghostflying{
+    background: linear-gradient(130deg, var(--ghost) 20%, var(--flying) 80%);
+}
+.ghostdark{
+    background: linear-gradient(130deg, var(--ghost) 20%, var(--dark) 80%);
+}
+.ghostdragon{
+    background: linear-gradient(130deg, var(--ghost) 20%, var(--dragon) 80%);
+}
+.ghostfire{
+    background: linear-gradient(130deg, var(--ghost) 20%, var(--fire) 80%);
+}
+.ghostgrass{
+    background: linear-gradient(130deg, var(--ghost) 20%, var(--grass) 80%);
+}
+.ghostground{
+    background: linear-gradient(130deg, var(--ghost) 20%, var(--ground) 80%);
+}
+
+
+/* PSYCHIC */
+.psychicfairy{
+    background: linear-gradient(130deg, var(--psychic) 20%, var(--fairy) 80%);
+}
+.psychicflying{
+    background: linear-gradient(130deg, var(--psychic) 20%, var(--flying) 80%);
+}
+.psychicgrass{
+    background: linear-gradient(130deg, var(--psychic) 20%, var(--grass) 80%);
+}
+.psychicfighting{
+    background: linear-gradient(130deg, var(--psychic) 20%, var(--fighting) 80%);
+}
+.psychicfire{
+    background: linear-gradient(130deg, var(--psychic) 20%, var(--fire) 80%);
+}
+.psychicghost{
+    background: linear-gradient(130deg, var(--psychic) 20%, var(--ghost) 80%);
+}
+
+
+/* ICE */
+.icepsychic{
+    background: linear-gradient(130deg, var(--ice) 20%, var(--psychic) 80%);
+}
+.iceflying{
+    background: linear-gradient(130deg, var(--ice) 20%, var(--flying) 80%);
+}
+.iceground{
+    background: linear-gradient(130deg, var(--ice) 20%, var(--ground) 80%);
+}
+.icewater{
+    background: linear-gradient(130deg, var(--ice) 20%, var(--water) 80%);
+}
+.iceghost{
+    background: linear-gradient(130deg, var(--ice) 20%, var(--ghost) 80%);
+}
+
+
+/* DRAGON */
+.dragonflying{
+    background: linear-gradient(130deg, var(--dragon) 20%, var(--flying) 80%);
+}
+.dragonpsychic{
+    background: linear-gradient(130deg, var(--dragon) 20%, var(--psychic) 80%);
+}
+.dragonground{
+    background: linear-gradient(130deg, var(--dragon) 20%, var(--ground) 80%);
+}
+.dragonfire{
+    background: linear-gradient(130deg, var(--dragon) 20%, var(--fire) 80%);
+}
+.dragonelectric{
+    background: linear-gradient(130deg, var(--dragon) 20%, var(--electric) 80%);
+}
+.dragonice{
+    background: linear-gradient(130deg, var(--dragon) 20%, var(--ice) 80%);
+}
+
+
+/* DARK */
+.darkflying{
+    background: linear-gradient(130deg, var(--dark) 20%, var(--flying) 80%);
+}
+.darkice{
+    background: linear-gradient(130deg, var(--dark) 20%, var(--ice) 80%);
+}
+.darkfire{
+    background: linear-gradient(130deg, var(--dark) 20%, var(--fire) 80%);
+}
+.darkghost{
+    background: linear-gradient(130deg, var(--dark) 20%, var(--ghost) 80%);
+}
+.darkfighting{
+    background: linear-gradient(130deg, var(--dark) 20%, var(--fighting) 80%);
+}
+.darksteel{
+    background: linear-gradient(130deg, var(--dark) 20%, var(--steel) 80%);
+}
+.darkdragon{
+    background: linear-gradient(130deg, var(--dark) 20%, var(--dragon) 80%);
+}
+.darkpsychic{
+    background: linear-gradient(130deg, var(--dark) 20%, var(--psychic) 80%);
+}
+
+
+/* STEEL */
+.steelground{
+    background: linear-gradient(130deg, var(--steel) 20%, var(--ground) 80%);
+}
+.steelflying{
+    background: linear-gradient(130deg, var(--steel) 20%, var(--flying) 80%);
+}
+.steelfairy{
+    background: linear-gradient(130deg, var(--steel) 20%, var(--fairy) 80%);
+}
+.steelrock{
+    background: linear-gradient(130deg, var(--steel) 20%, var(--rock) 80%);
+}
+.steelpsychic{
+    background: linear-gradient(130deg, var(--steel) 20%, var(--psychic) 80%);
+}
+.steeldragon{
+    background: linear-gradient(130deg, var(--steel) 20%, var(--dragon) 80%);
+}
+.steelfighting{
+    background: linear-gradient(130deg, var(--steel) 20%, var(--fighting) 80%);
+}
+.steelghost{
+    background: linear-gradient(130deg, var(--steel) 20%, var(--ghost) 80%);
+}
+
+
+/* FAIRY */
+.fairyflying{
+    background: linear-gradient(130deg, var(--fairy) 20%, var(--flying) 80%);
+}
+
+
+/* FLYING */
+.flyingdragon{
+    background: linear-gradient(130deg, var(--flying) 20%, var(--dragon) 80%);
+}
