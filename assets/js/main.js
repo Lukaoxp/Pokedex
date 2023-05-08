@@ -1,9 +1,9 @@
 const pokemonList = document.getElementById('pokemonList');
 const loadMoreButton = document.getElementById('loadMoreButton');
 let pokeSelected;
-const limit = 202;
-let offset = 1;
-let maxQtd = 1010;
+const limit = 2000;
+let offset = 1000;
+let maxQtd = 2000;
 
 
 loadPoke(offset, limit);
@@ -45,10 +45,7 @@ loadMoreButton.addEventListener('click', () => {
     }
 })
 
-
 function pokeBackgroundColor(pokecolors) {
-
-    
 
     if (pokecolors[1] === undefined) {
         return pokecolors[0];
